@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Dennis-Rudiger
 - 👀 I’m interested in android and Web development 
 - 🌱 I’m currently learning flutter
-- 💞️ I’m looking to collaborate on IOT projects with C/C++
+- 💞️ I’m looking to collaborate on IOT projects with C/C++, Arduino, Raspbery Pi
 - 📫 How to reach me denisrudiger@hotmail.com 
 - 😄 Pronouns: push/pull
 - ⚡ Fun fact: learning python after C programming makes life easier 
