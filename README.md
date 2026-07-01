@@ -2,7 +2,7 @@
 - 👀 I’m interested in android and Web development 
 - 🌱 I’m currently learning flutter
 - 💞️ I’m looking to collaborate on IOT projects with C/C++, Arduino, Raspbery Pi
-- 📫 How to reach me denisrudiger@hotmail.com 
+- 📫 How to reach me denisrudiger@gmail.com 
 - 😄 Pronouns: push/pull
 - ⚡ Fun fact: learning python after C programming makes life easier 
 
